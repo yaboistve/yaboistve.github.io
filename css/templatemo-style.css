@@ -1349,3 +1349,9 @@ footer a:hover {
   }
 
 }
+
+
+/* Force BOREL font for hero text */
+#video-container .video-content .inner h1 {
+    font-family: 'Borel', cursive !important;
+}
